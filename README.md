@@ -7,7 +7,7 @@ Automatically Toggles Lowquality On F4, can also be used to toggle back on
 # ===DahoodStartup===
 Disables Boombox audio and lowgraphics - with f4 (Can be changed just put F1 - 12)
 
-# Automuteboom
+# ===AutoMuteBoom===
 Automatically Mutes the audio of boomboxs in dahood
 
 -----------------------------
