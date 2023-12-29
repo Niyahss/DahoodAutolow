@@ -1,7 +1,17 @@
-# DahoodAutolow
-Automatically Toggles Lowquality On F4, can also be used to toggle back on 
+# Some Dahood Related stuff I've made
 
-# All you need is AHK you can download here
+
+# ===Dahood Autolow===
+Automatically Toggles Lowquality On F4, can also be used to toggle back on
+
+# ===DahoodStartup===
+Disables Boombox audio and lowgraphics - with f4 (Can be changed just put F1 - 12)
+
+# Automuteboom
+Automatically Mutes the audio of boomboxs in dahood
+
+-----------------------------
+All you need is AHK you can download here
 https://www.autohotkey.com/
 
 
