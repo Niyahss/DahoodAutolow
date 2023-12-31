@@ -9,6 +9,9 @@ Disables Boombox audio and lowgraphics - with f4 (Can be changed just put F1 - 1
 
 # ===AutoMuteBoom===
 Automatically Mutes the audio of boomboxs in dahood Using F4 (Can be changed just put F1 - 12)
+-----------------------------
+
+# Have Stretch res? Go to the "Stretch Res" Folder
 
 -----------------------------
 All you need is AHK you can download here
