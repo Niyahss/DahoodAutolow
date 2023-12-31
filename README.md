@@ -1,7 +1,7 @@
 # Some Dahood Related stuff I've made
 
 
-# ===DahoodAutolowQual===
+# ===DahoodlowQual===
 Automatically Toggles Lowquality On F4, can also be used to toggle back on (Can be changed just put F1 - 12)
 
 # ===DahoodStartup===
