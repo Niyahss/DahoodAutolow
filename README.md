@@ -14,10 +14,10 @@ Disables Boombox audio and lowgraphics - with f4 (Can be changed just put F1 - 1
 Automatically Mutes the audio of boomboxs in dahood Using F4 (Can be changed just put F1 - 12)
 
 # ===AutoRedeem===
-Automatically Redeems all the dahood codes.
+Automatically Redeems all the dahood codes.           (F4)
 
-# ===AutoRedeemFULL===
-Automatically Redeems all the dahood codes. [ FULL SCREEN ]
+# ===AutoRedeemFULL=== 
+Automatically Redeems all the dahood codes. [ FULL SCREEN ]      (F4)
 
 -----------------------------
 # Have Stretch res? Go to the "Stretch Res" Folder
