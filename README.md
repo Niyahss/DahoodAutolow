@@ -1,5 +1,8 @@
 # Some Dahood Related stuff I've made
 
+* All you need is AHK you can download here
+https://www.autohotkey.com/
+
 
 # ===DahoodlowQual===
 Automatically Toggles Lowquality On F4, can also be used to toggle back on (Can be changed just put F1 - 12)
@@ -19,8 +22,7 @@ Automatically Redeems all the dahood codes. [ FULL SCREEN ]
 -----------------------------
 # Have Stretch res? Go to the "Stretch Res" Folder
 -----------------------------
-All you need is AHK you can download here
-https://www.autohotkey.com/
+
 
 # Videos Below
 
