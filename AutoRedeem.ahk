@@ -21,7 +21,7 @@ Sleep 10
 Click 779, 757
 Sleep 5000
 Click 659, 750
-Send TRADEME!
+Send TRADEME{!}
 Sleep 10
 Click 779, 757
 Sleep 5000
@@ -36,7 +36,7 @@ Sleep 10
 Click 779, 757
 Sleep 5000
 Click 659, 750
-Send CANDYCANE2023
+Send THANKSGIVING23
 Sleep 10
 Click 779, 757
 Sleep 5000

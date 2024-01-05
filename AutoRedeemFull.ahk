@@ -21,7 +21,7 @@ Sleep 10
 Click 788 764
 Sleep 5000
 Click 651, 760
-Send TRADEME!
+Send TRADEME{!}
 Sleep 10
 Click 788 764
 Sleep 5000
@@ -36,7 +36,7 @@ Sleep 10
 Click 788 764
 Sleep 5000
 Click 651, 760
-Send CANDYCANE2023
+Send THANKSGIVING23
 Sleep 10
 Click 788 764
 Sleep 5000
