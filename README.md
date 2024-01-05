@@ -13,7 +13,7 @@ Automatically Mutes the audio of boomboxs in dahood Using F4 (Can be changed jus
 # ===AutoRedeem===
 Automatically Redeems all the dahood codes.
 
-# ===AutoRedeem===
+# ===AutoRedeemFULL===
 Automatically Redeems all the dahood codes. [ FULL SCREEN ]
 
 -----------------------------
