@@ -71,10 +71,6 @@ Sleep 10
 Click 788 764
 Sleep 5000
 Click 651, 760
-Send KNIFEHOODMAS2023
-Sleep 10
-Click 788 764
-Sleep 5000
 Click 147, 1025
 return
 
