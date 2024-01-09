@@ -23,6 +23,7 @@ Automatically Redeems all the dahood codes. [ FULL SCREEN ]      (F4)
 # Have Stretch res? Go to the "Stretch Res" Folder
 -----------------------------
 
+# DHT app has been added, run it through a virus scan if u think its a virus, download from releases.
 
 # Videos Below
 
