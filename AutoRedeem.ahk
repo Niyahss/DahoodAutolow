@@ -1,5 +1,5 @@
 F4::
-Click 156, 989
+Click 143, 1024
 Click 659, 750
 Send MELONBEAR
 Sleep 10
@@ -36,7 +36,11 @@ Sleep 10
 Click 779, 757
 Sleep 5000
 Click 659, 750
-Click 159, 998
+Send OGHYPE
+Sleep 10
+Click 779, 757
+Sleep 5000
+Click 143, 1024
 return
 
 ; Automatically Redeems all codes | Made by Saku. (Sakusai)

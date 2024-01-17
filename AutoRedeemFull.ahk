@@ -1,5 +1,5 @@
 F4::
-Click 147, 1025
+Click 139, 1052
 Click 651, 760
 Send MELONBEAR
 Sleep 10
@@ -35,7 +35,12 @@ Send PORTAL
 Sleep 10
 Click 788 764
 Sleep 5000
-Click 147, 1025
+Click 651, 760
+Send OGHYPE
+Sleep 10
+Click 788 764
+Sleep 5000
+Click 139, 1052
 return
 
 
