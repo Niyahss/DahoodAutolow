@@ -38,6 +38,10 @@ Sleep 5000
 Click 659, 750
 Send OGHYPE
 Sleep 10
+Sleep 5000
+Click 659, 750
+Send Valentine2024
+Sleep 10
 Click 779, 757
 Sleep 5000
 Click 143, 1024
