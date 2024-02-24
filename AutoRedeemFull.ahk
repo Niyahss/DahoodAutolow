@@ -31,11 +31,6 @@ Sleep 10
 Click 788 764
 Sleep 5000
 Click 651, 760
-Send PORTAL
-Sleep 10
-Click 788 764
-Sleep 5000
-Click 651, 760
 Send OGHYPE
 Sleep 10
 Click 788 764
