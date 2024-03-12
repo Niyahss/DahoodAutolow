@@ -26,25 +26,6 @@ Sleep 10
 Click 788 764
 Sleep 5000
 Click 651, 760
-Send NEWYEAR2024
-Sleep 10
-Click 788 764
-Sleep 5000
-Click 651, 760
-Send OGHYPE
-Sleep 10
-Click 788 764
-Sleep 5000
-Click 651, 760
-Send Valentine2024
-Sleep 10
-Click 788 764
-Sleep 5000
-Click 651, 760
-Send 0466-8224-2695
-Sleep 10
-Click 788 764
-Sleep 5000
 Click 139, 1052
 return
 
